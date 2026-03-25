@@ -1,0 +1,12 @@
+# Pastas das IDEs
+.idea/
+.vscode/
+*.iml
+
+# Compilação e Dependências
+target/
+*.class
+
+# Configurações Sensíveis (Onde vais guardar a senha do DB)
+config.properties
+.env
